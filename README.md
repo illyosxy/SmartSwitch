@@ -1,2 +1,2 @@
-# D4LJ
-Segala Hal Tentang D4 LJ
+# SmartSwitch
+Smart Switch Based on AI and Image Processing
